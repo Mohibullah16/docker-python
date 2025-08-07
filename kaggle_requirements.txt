@@ -148,6 +148,7 @@ transformers>=4.51.0
 triton
 tsfresh
 vtk
+vllm
 wandb
 wavio
 # b/350573866: xgboost v2.1.0 breaks learntools
